@@ -9,5 +9,9 @@ and joining them together and loading them into cloud-hosted data storage.
 + Apache Spark
 + Google Big Query
 
+## ETL Pipeline
+
+ CSV ->     Apache Spark ->    Google Big Query
+[Extract]    [Transform]            [Load]
 
 
