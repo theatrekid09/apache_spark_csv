@@ -6,8 +6,10 @@ and joining them together and loading them into cloud-hosted data storage.
 ## Technologies Used 
 
 + Python 
++ SQL
 + Apache Spark
 + Google Big Query
+
 
 ## ETL Pipeline
 
