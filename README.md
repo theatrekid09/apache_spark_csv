@@ -11,7 +11,7 @@ and joining them together and loading them into cloud-hosted data storage.
 
 ## ETL Pipeline
 
- CSV ->     Apache Spark ->    Google Big Query
-[Extract]    [Transform]            [Load]
+ CSV -> Apache Spark -> Google Big Query
+
 
 
